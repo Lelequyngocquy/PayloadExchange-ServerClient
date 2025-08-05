@@ -1,0 +1,13 @@
+C:\Users\lengo\Desktop\Spamming Work\PayloadTesting\server\payloadserver\payloadserver\bin\Debug\payloadserver.exe.config
+C:\Users\lengo\Desktop\Spamming Work\PayloadTesting\server\payloadserver\payloadserver\bin\Debug\payloadserver.exe
+C:\Users\lengo\Desktop\Spamming Work\PayloadTesting\server\payloadserver\payloadserver\bin\Debug\payloadserver.pdb
+C:\Users\lengo\Desktop\Spamming Work\PayloadTesting\server\payloadserver\payloadserver\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lengo\Desktop\Spamming Work\PayloadTesting\server\payloadserver\payloadserver\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lengo\Desktop\Spamming Work\PayloadTesting\server\payloadserver\payloadserver\obj\Debug\payloadserver.csproj.AssemblyReference.cache
+C:\Users\lengo\Desktop\Spamming Work\PayloadTesting\server\payloadserver\payloadserver\obj\Debug\payloadserver.Form1.resources
+C:\Users\lengo\Desktop\Spamming Work\PayloadTesting\server\payloadserver\payloadserver\obj\Debug\payloadserver.csproj.GenerateResource.cache
+C:\Users\lengo\Desktop\Spamming Work\PayloadTesting\server\payloadserver\payloadserver\obj\Debug\payloadserver.csproj.CoreCompileInputs.cache
+C:\Users\lengo\Desktop\Spamming Work\PayloadTesting\server\payloadserver\payloadserver\obj\Debug\payloads.9704C278.Up2Date
+C:\Users\lengo\Desktop\Spamming Work\PayloadTesting\server\payloadserver\payloadserver\obj\Debug\payloadserver.exe
+C:\Users\lengo\Desktop\Spamming Work\PayloadTesting\server\payloadserver\payloadserver\obj\Debug\payloadserver.pdb
+C:\Users\lengo\Desktop\Spamming Work\PayloadTesting\server\payloadserver\payloadserver\obj\Debug\payloadserver.exe.config

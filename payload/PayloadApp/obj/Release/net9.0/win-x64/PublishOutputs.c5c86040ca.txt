@@ -1,0 +1,2 @@
+C:\Users\lengo\Desktop\Spamming Work\PayloadTesting\payload\PayloadApp\bin\Release\net9.0\win-x64\publish\PayloadApp.pdb
+C:\Users\lengo\Desktop\Spamming Work\PayloadTesting\payload\PayloadApp\bin\Release\net9.0\win-x64\publish\PayloadApp.exe
