@@ -7,6 +7,7 @@ C:\Users\lengo\Desktop\Spamming Work\PayloadTesting\client\ClientApp\obj\Debug\n
 C:\Users\lengo\Desktop\Spamming Work\PayloadTesting\client\ClientApp\obj\Debug\net9.0\ClientApp.AssemblyInfoInputs.cache
 C:\Users\lengo\Desktop\Spamming Work\PayloadTesting\client\ClientApp\obj\Debug\net9.0\ClientApp.AssemblyInfo.cs
 C:\Users\lengo\Desktop\Spamming Work\PayloadTesting\client\ClientApp\obj\Debug\net9.0\ClientApp.csproj.CoreCompileInputs.cache
+C:\Users\lengo\Desktop\Spamming Work\PayloadTesting\client\ClientApp\obj\Debug\net9.0\ClientApp.sourcelink.json
 C:\Users\lengo\Desktop\Spamming Work\PayloadTesting\client\ClientApp\obj\Debug\net9.0\ClientApp.dll
 C:\Users\lengo\Desktop\Spamming Work\PayloadTesting\client\ClientApp\obj\Debug\net9.0\refint\ClientApp.dll
 C:\Users\lengo\Desktop\Spamming Work\PayloadTesting\client\ClientApp\obj\Debug\net9.0\ClientApp.pdb
